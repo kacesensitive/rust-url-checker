@@ -2,7 +2,7 @@
 
 ![URL Checker Screenshot](./screenshot.png)
 
-URL Checker is a simple GUI application written in Rust, using the Iced GUI framework. This tool helps you to check the accessibility of a list of URLs in an efficient and visually appealing manner.
+URL Checker is a simple GUI application written in Rust, using the Iced GUI framework. This tool helps you to check the accessibility of a list of URLs.
 
 ## Features
 
